@@ -18,7 +18,7 @@
 ![](/Images/SQL.png)
 
 ## Data Modelling Using Tableau:
-![](/Images/Data Model.png)
+![](/Images/DataModel.png)
 
 ## Findings:
 * The final dashboard can help the sales director in identifying focus customers and regions with poor performances.
