@@ -5,7 +5,7 @@
 * SQL - MySql server for EDA
 * Tableau - Data modelling, Data Cleaning and visualisation.
 # Project Overview:
-[Project files](https://github.com/apoorvjain1995/Atliq-Hardware-Sales-Analysis-Dashboard/tree/main/Datasets)
+[Project files](https://github.com/apoorvjain1995/Atliq-Hardware-Sales-Analysis-Dashboard)
 * Used SQL to perform Exploratory Data Analysis and to find trends by joining multiple tables and running queries.
 * Connected MySql Database to Tableau and established a data model.
 * Cleaned the data in Tableau using inbuilt filter and custom column functions.
